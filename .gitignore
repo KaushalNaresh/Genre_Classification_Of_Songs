@@ -1,7 +1,5 @@
 venv
-fma_small.zip
 __pycache__
 .DS_Store
 .ipynb_checkpoints/
 dataset
-classification.ipynb
