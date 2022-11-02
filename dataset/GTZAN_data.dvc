@@ -1,0 +1,5 @@
+outs:
+- md5: db2bac0a16e1bc47551e4e15ec57fe32.dir
+  size: 1407024720
+  nfiles: 2003
+  path: GTZAN_data
