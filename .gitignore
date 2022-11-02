@@ -1,6 +1,6 @@
 venv
 fma_small.zip
-dataset
 __pycache__
 .DS_Store
 .ipynb_checkpoints/
+dataset/fma_small
