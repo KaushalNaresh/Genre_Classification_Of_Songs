@@ -1,9 +1,4 @@
 import os.path
-# Number of samples per 30s audio clip.
-# TODO: fix dataset to be constant.
-NB_AUDIO_SAMPLES = 1321967
-SAMPLING_RATE = 44100
-
 
 def get_audio_path(audio_dir, track_id, genre = None):
     """
